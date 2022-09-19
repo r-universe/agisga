@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "grpSLOPE",
+    "oncran": true
+  }
+]
