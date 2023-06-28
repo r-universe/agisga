@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "grpSLOPE"]
 	path = grpSLOPE
 	url = https://github.com/agisga/grpslope
-	shallow = true
-	registered = true
